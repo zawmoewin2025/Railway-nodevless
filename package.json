@@ -1,11 +1,16 @@
 {
-  "name": "railway-vless",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+  "v": "2",
+  "ps": "Railway-VLESS",
+  "add": "သင့်ရဲ့-app-အမည်.up.railway.app",
+  "port": "443",
+  "id": "f2e17b4d-22fd-44a4-90db-40649717be8e",
+  "aid": "0",
+  "scy": "auto",
+  "net": "ws",
+  "type": "none",
+  "host": "သင့်ရဲ့-app-အမည်.up.railway.app",
+  "path": "/vless",
+  "tls": "tls",
+  "sni": "သင့်ရဲ့-app-အမည်.up.railway.app",
+  "alpn": ""
 }
-
